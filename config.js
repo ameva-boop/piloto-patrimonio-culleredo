@@ -18,7 +18,7 @@ var config = {
             id: 'culleredogral',
             alignment: 'right',
             hidden: false,
-            title: 'Culleredo',
+            title: 'Te damos la bienvenida a Culleredo Arqueológico',
             description: 'Culleredo es un municipio coruñés que bordea la Ría de O Burgo, en el norte de Galicia. Muy cercano a la ciudad de A Coruña, cuenta con un patrimonio histórico y arqueológico muy diverso que, en muchos casos, es poco conocido. Sigue deslizando y ¡acompáñanos en este viaje por la historia!',
             location: {
                 center: [-8.36649, 43.31514],
@@ -47,7 +47,7 @@ var config = {
             id: 'culleredogral2',
             alignment: 'left',
             hidden: false,
-            title: 'Culleredo',
+            title: 'Culleredo en la Historia',
             description: 'La historia de Culleredo comienza en el Periodo Calcolítico, hace más de 6000 años. De esta época conservamos elementos de la cultura megalítica como mámoas (dólmenes enterrados bajo tierra) y menhires. Contamos también con varios castros de la Edad del Hierro y presencia romana. En arquitectura medieval, hay iglesias románicas (s.XII) y una torre del s.XIV.',
             location: {
                 center: [-8.38879, 43.29209],
@@ -264,7 +264,7 @@ var config = {
             id: 'culleredofinal',
             alignment: 'fully',
             hidden: false,
-            title: 'Culleredo',
+            title: '¡Fin de la ruta!',
             description: 'Gracias por acompañarnos en este viaje. Te animamos a visitar nuestros monumentos y disfrutar de la historia en vivo. Visita la web del Concello para ver los horarios de las visitas guiadas y teatralizadas. ¡Te esperamos!',
             location: {
                 center: [-8.38879, 43.29209],
