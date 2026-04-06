@@ -7,7 +7,7 @@ var config = {
     //Read more about available projections here
     //https://docs.mapbox.com/mapbox-gl-js/example/projections/
     theme: 'dark',
-    use3dTerrain: true, 
+    use3dTerrain: false, 
     auto: false,
     title: 'Patrimonio Arqueológico de Culleredo',
     subtitle: 'Una visita virtual por la historia antigua de Culleredo',
