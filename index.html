@@ -69,6 +69,7 @@
             color: #000;
             border-radius: 10px 0 10px 0;
             width: 30vw;
+            max-width: 300px;
             margin: 10px auto;
             display: block;
             font-size: 13px;
@@ -90,7 +91,6 @@
         #features {
             padding-top: 10vh;
             padding-bottom: 10vh;
-            border-radius: 10px 0 10px 0;
         }
 
         .hidden {
@@ -131,7 +131,6 @@
             padding-bottom: 50vh;
             /* margin-bottom: 10vh; */
             opacity: 0.25;
-            border-radius: 10px 0 10px 0;
         }
 
         .step.active {
@@ -139,13 +138,19 @@
         }
 
         .step div {
-            padding: 25px 50px;
-            line-height: 25px;
-            font-size: 13px;
+            padding: 15px 20px;
+            line-height: calc(1rem + 0.5vw);
+            font-size: calc(0.8rem + 0.5vw);
+            border-radius: 20px 0 20px 0;
+            background-color: #e6efe8;
+            color: #082b0c;
         }
 
         .step img {
-            width: 100%;
+            width: auto;
+            max-height: 30vh;
+            padding-right: 20px;
+            float: left;
         }
 
         @media (max-width: 750px) {
