@@ -1,6 +1,5 @@
 var config = {
     style: 'mapbox://styles/evaam/cmnk64mes00b601sa01313ia8',
-    // leave commented to use Mapbox Standard Style
     accessToken: 'pk.eyJ1IjoiZXZhYW0iLCJhIjoiY21tbmxxeW1wMDRmZTJzczJscGVlOGxkZyJ9.RSX018lF7H568pon4XxKBg',
     showMarkers: true,
     markerColor: '#4778e2',
