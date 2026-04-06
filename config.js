@@ -78,7 +78,7 @@ var config = {
             hidden: false,
             title: 'Ponte do Burgo',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cambre_Galicia_070330_13.jpg/1280px-Cambre_Galicia_070330_13.jpg',
-            description: '<span>fotografía de Luis Miguel Bugallo Sánchez (Lmbuga Commons)</span><br>El Puente de O Burgo atraviesa la ría que le da nombre. De origen medieval, está construida en granito y cuenta con 120m de longitude.',
+            description: '<span class="creditos">fotografía de Luis Miguel Bugallo Sánchez.</span><br>El Puente de O Burgo atraviesa la ría que le da nombre. De origen medieval, está construida en granito y cuenta con 120m de longitude.',
             location: {
                 center: [-8.35968375206, 43.3154285521],
                 zoom: 18,
@@ -247,7 +247,7 @@ var config = {
             hidden: false,
             title: 'Torre de Celas de Peiro',
             image: 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Torre_de_Celas_de_Peiro.jpg',
-            description: '<span>De Javier Pais</span><br>Esta torre medieval formaba parte de un antiguo pazo. Ahora alberga el Museo Etnográfico municipal. Es el final de nuestro recorrido y una visita muy recomendable para complementar nuestro viaje por la historia arqueológica de Culleredo.',
+            description: '<span class="creditos">Fotografía de Javier Pais.</span><br>Esta torre medieval formaba parte de un antiguo pazo. Ahora alberga el Museo Etnográfico municipal. Es el final de nuestro recorrido y una visita muy recomendable para complementar nuestro viaje por la historia arqueológica de Culleredo.',
             location: {
                 center: [-8.40859115124, 43.2495439044],
                 zoom: 18,
